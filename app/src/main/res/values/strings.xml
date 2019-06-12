@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyRoomPersistance</string>
+    <string name="insert">Insert</string>
+    <string name="year">Year</string>
+    <string name="major">Major</string>
+    <string name="nim">NIM</string>
+    <string name="name">Name</string>
+</resources>
